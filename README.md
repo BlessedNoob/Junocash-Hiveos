@@ -24,7 +24,9 @@ We do need to fix just one thing in the terminal, which is out wallet. For some 
 
 Once you replaced your wallet, CTRL + X, to exit. Y, to save changes. Enter, to confirm and exit back to terminal
 
-To make sure changes took just `nano h-config.sh` again, verify wallet is correct and CTRL + X
+To make sure changes took just `nano h-config.sh` again, verify wallet is correct and CTRL + X. 
+
+lastly run `miner resart` and it will refresh with wallet and start mining
 
 Unfortunately we will need to this on every rig
 
