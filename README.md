@@ -1,8 +1,9 @@
 Needs libhwloc15
 shell in and run
 
-sudo apt update
-sudo apt install libhwloc15
+`sudo apt update`
+
+`sudo apt install libhwloc15`
 
 Custom link should install normal, make sure hiveos flightsheet is correct
 
