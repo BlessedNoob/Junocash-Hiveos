@@ -18,7 +18,7 @@ We do need to fix just one thing in the terminal, which is out wallet. For some 
 
 `ls` you should see a print ouf of these files: h-config.sh  h-manifest.conf  h-run.sh  h-stats.sh  xmrig
 
-`nano h-config.sh` will open a window, look for "user": "$CUSTOM_USER", we will replace the $CUSTOM_USER with our wallet
+`nano h-config.sh` will open a window, look for "user": "$CUSTOM_USER", we will replace the $CUSTOM_USER with our wallet, OR we can replace $CUSTOM_USER with $CUSTOM_TEMPLATE. Then we can use whatever wallet we want
 ![h-config before](https://github.com/BlessedNoob/Junocash-Hiveos/blob/d5966b1ff8103fdaa88fd47013b0ff80af0f8aa9/h-config%20before.jpg)
 ![h-config after](https://github.com/BlessedNoob/Junocash-Hiveos/blob/6023cbfe867837fcb75ea1f3a58ee520bca0845f/h-config%20after.jpg) 
 
