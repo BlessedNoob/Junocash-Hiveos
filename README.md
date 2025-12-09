@@ -30,7 +30,8 @@ lastly run `miner resart` and it will refresh with wallet and start mining
 
 Unfortunately we will need to this on every rig
 
-Working Pools
+Working Pools:
+
 https://junohash.com/
 
 https://pool.juno.ad/
