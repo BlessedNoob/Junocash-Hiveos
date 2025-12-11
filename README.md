@@ -14,6 +14,8 @@ https://junohash.com/
 
 https://pool.juno.ad/
 
+https://junopool.org/
+
 ![Flightsheet](https://github.com/BlessedNoob/Junocash-Hiveos/blob/ecdd57c3ef6aa83f90a28a0e08adc983ef293f7f/hive%20flightsheet.jpg)
 ![Miner Screen](https://github.com/BlessedNoob/Junocash-Hiveos/blob/ecdd57c3ef6aa83f90a28a0e08adc983ef293f7f/miner%20screen.jpg)
 ![HiveOS Dashboard](https://github.com/BlessedNoob/Junocash-Hiveos/blob/ecdd57c3ef6aa83f90a28a0e08adc983ef293f7f/hiveos%20dashboard.jpg)
